@@ -1,11 +1,15 @@
 
->  # **NOTE:** This repository is NOT a template.
+# Dongxing Zuo's Academic Homepage
+
+This repository contains Dongxing Zuo's personal academic homepage.  
+本仓库用于展示左冬兴的个人学术主页。
 
 
 ## Want to build your own?
-Please use the open-source template available here: **[senli1073/academic-homepage-template](https://github.com/senli1073/academic-homepage-template)**. It includes documentation and is ready for you to customize.
+This site is customized from an open-source academic homepage structure and can be further adapted for GitHub Pages.  
+本网站基于开源学术主页结构定制，可继续用于 GitHub Pages 发布。
 
 
 ## License
 
-Copyright Sen Li, 2023-2026. Licensed under an MIT license.
+Copyright Dongxing Zuo, 2023-2026. Licensed under an MIT license.
